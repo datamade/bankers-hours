@@ -1,2 +1,2 @@
-# bankers-hours
+# bankershours
 Python decorator that will only let a function or method run during specified times
