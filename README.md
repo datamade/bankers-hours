@@ -6,7 +6,7 @@ Python decorator that will only let a function or method run during specified ti
 import datetime
 
 import dateutil
-from bankershours improt within_hours, within_hours_method
+from bankershours import within_hours, within_hours_method
 
 TIMEZONE = tz.gettz('America/Chicago')
 
